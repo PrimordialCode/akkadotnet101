@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0368FBE7-9459-4562-8ED8-4B822C9EAF02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD94B161-E028-4125-9C65-504340D1D9C5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Remote", "ConsoleApp.Remote\ConsoleApp.Remote.csproj", "{B6832FA3-4174-4BA4-A77C-0006064C8342}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Client", "ConsoleApp.Client\ConsoleApp.Client.csproj", "{C449DB0B-6859-443C-B409-204D8A0ADEF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaSeed", "AkkaSeed\AkkaSeed.csproj", "{88E65D92-668A-4913-A0E5-AB57C1A491F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0368FBE7-9459-4562-8ED8-4B822C9EAF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0368FBE7-9459-4562-8ED8-4B822C9EAF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0368FBE7-9459-4562-8ED8-4B822C9EAF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0368FBE7-9459-4562-8ED8-4B822C9EAF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6832FA3-4174-4BA4-A77C-0006064C8342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6832FA3-4174-4BA4-A77C-0006064C8342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6832FA3-4174-4BA4-A77C-0006064C8342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6832FA3-4174-4BA4-A77C-0006064C8342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C449DB0B-6859-443C-B409-204D8A0ADEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C449DB0B-6859-443C-B409-204D8A0ADEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C449DB0B-6859-443C-B409-204D8A0ADEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C449DB0B-6859-443C-B409-204D8A0ADEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E65D92-668A-4913-A0E5-AB57C1A491F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E65D92-668A-4913-A0E5-AB57C1A491F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E65D92-668A-4913-A0E5-AB57C1A491F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E65D92-668A-4913-A0E5-AB57C1A491F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D5E618-0157-4F97-85A1-A7956A7DC88A}
+	EndGlobalSection
+EndGlobal
